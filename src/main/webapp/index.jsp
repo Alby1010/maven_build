@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>nirmala college mvpa</h2>
+<h2>nirmala college</h2>
 </body>
 </html>
